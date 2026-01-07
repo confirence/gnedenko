@@ -75,5 +75,64 @@ develop measures to prevent the spread of coronavirus infection.`,
         startPage: 1234,
         pagesCount: 8,
     },
+    {
+        id: 162,
+        title: `STUDY OF POTENTILLA POPULATIONS ARCTIC
+ROUY ON THE COAST OF KANDALAKSHA BAY OF
+THE WHITE SEA`,
+        authors: ["Maria Menshakova", "Ramziya Gainanova"],
+        text: `The article presents the results of a study of the structure and assessment of the state of Potentilla
+coenopopulations Arctic Rouy on the coast of Kandalaksha Bay of the White Sea. Population
+monitoring of this plant species, listed in the regional Red Book, is relevant due to its vulnerability,
+poor study, range fragmentation, and growth in areas subject to intense recreational impact.
+Morphometric and demographic parameters were studied for five cenopopulations, and their
+absolute and effective abundance, density, self‐sustainability, and vitality were determined. It was
+found that the cenopopulations are predominantly sparse; in areas with minimal anthropogenic
+impact, abundance and density increase sharply. According to the  ʺdelta‐omegaʺ  classification,
+they are considered young and maturing. Analysis of recovery index values allowed us to classify
+CP3 as stable, CP1 and CP5 as relatively stable, CP4 as unstable, and CP2 as critical. Factors that
+influence the vitality of individuals include the density of the vegetation cover and the immediate
+threat of mechanical damage to the plants. Given the increasing tourist flow and the lack of special
+conservation measures due to the location of cenopopulations outside the boundaries of existing
+protected areas, it can be concluded that P. arctica in the area under consideration is at risk of
+population decline and extinction.`,
+        startPage: 1242,
+        pagesCount: 8,
+    },
+    {
+        id: 163,
+        title: `ANALYSIS OF THE POLICIES OF THE REGIONS OF
+THE ARCTIC ZONE OF THE RUSSIAN FEDERATION IN
+THE FIELD OF ADAPTATION TO CLIMATE CHANGE`,
+        authors: ["Ramziya Gainanova", "Evgeniy Potorochin"],
+        text: `This article examines the experience of developing climate change adaptation plans in the Russian
+Federation at the regional level. The authors analyze the regulatory framework, structure, and
+content of regional adaptation plans, as well as approaches to their development and
+implementation. Particular attention is paid to the methodological aspects of plan preparation and
+the identification of climate risks. Based on a review and analysis of pilot regional adaptation plans,
+key trends, challenges, and development prospects for this area in Russia are identified. This work
+may be useful for specialists in climate policy, public administration, and sustainable development.`,
+        startPage: 1250,
+        pagesCount: 8,
+    },
+    {
+        id: 164,
+        title: `PHYTOEXTRACTION FOR GREEN
+TECHNOLOGIES: EVALUATION OF THE ABILITY OF
+CHLORELLA TO ABSORB SIGMA AND CADMIUM IN
+SEPARATE AND COMBINED PRESENCE`,
+        authors: ["Maria Menshakova", "Anastasia Nisikova"],
+        text: `The article is devoted to the study of bioaccumulation of cadmium and lead ions by the unicellular
+alga Chlorella vulgaris to assess the potential of this species for phytoextraction of metals from
+wastewater. The algae were grown in Boldʹs medium supplemented with lead and cadmium nitrates
+at concentrations of 0.2 g/L, 0.1 g/L, and 0.01 g/L. Experiments were conducted with both
+individual and combined metal additions . It was shown that at the highest concentrations, metal
+accumulation occurs at a low rate, due to the drastic suppression of plant life processes by toxic
+metals and the inability to accumulate due to the cessation of division and growth. At lower
+concentrations, intense metal accumulation is observed, which is significantly enhanced by the
+simultaneous presence of both metals in the nutrient solution.`,
+        startPage: 1258,
+        pagesCount: 5,
+    },
     // Добавляй новые статьи сюда просто копируя блок выше
 ];
