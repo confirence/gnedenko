@@ -134,5 +134,29 @@ simultaneous presence of both metals in the nutrient solution.`,
         startPage: 1258,
         pagesCount: 5,
     },
+    {
+        id: 244,
+        title: `Green Entrepreneurship and SMEs: Drivers and Barriers
+to Sustainable Business Models`,
+        authors: ["Babaeva Zoya"],
+        text: `Green entrepreneurship has emerged as a vital force in advancing the transition toward a sustainable
+and inclusive economy, with small and medium‐sized enterprises (SMEs) playing a particularly
+dynamic role due to their agility, innovation capacity, and close ties to local communities. This paper
+explores the key drivers and barriers that shape the development and scaling of sustainable business
+models among green SMEs. Drawing on recent empirical studies, policy reports, and theoretical
+frameworks from sustainability transitions and entrepreneurial ecosystems, the analysis identifies
+critical enablers—such as access to green finance, supportive regulatory environments, consumer
+demand for eco‐friendly products, and mission‐driven founder motivation—as well as persistent
+obstacles, including high upfront costs, limited technical expertise, fragmented policy support, and
+difficulties in measuring environmental impact. The study highlights the paradox that while green
+entrepreneurs are often intrinsically motivated by ecological and social values, they frequently struggle
+to reconcile these values with financial viability in conventional market structures. The paper concludes
+by proposing an integrated policy‐practice framework that combines targeted financial instruments,
+capacity‐building programs, streamlined certification schemes, and collaborative networks to
+strengthen the resilience and scalability of green SMEs. Ultimately, fostering green entrepreneurship
+is not only an economic imperative but a cornerstone of a just and transformative green economy.`,
+        startPage: 1263,
+        pagesCount: 7,
+    },
     // Добавляй новые статьи сюда просто копируя блок выше
 ];
