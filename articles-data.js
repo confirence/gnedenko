@@ -158,5 +158,198 @@ is not only an economic imperative but a cornerstone of a just and transformativ
         startPage: 1263,
         pagesCount: 7,
     },
+    {
+        id: 245,
+        title: `DIGITALIZATION AND INTELLIGENT
+TECHNOLOGIES AS DRIVERS OF SUSTAINABLE
+DEVELOPMENT OF THE REGIONAL ECONOMY`,
+        authors: ["Sultanov Garun", "Kozyubro Tatyana", "Natkho Susanna"],
+        text: `Digitalization and intelligent technologies—encompassing artificial intelligence, big data
+analytics, the Internet of Things (IoT), blockchain, and smart infrastructure—are increasingly
+recognized as pivotal enablers of sustainable regional development. This article explores the
+mechanisms through which digital transformation fosters economic resilience, environmental
+stewardship, and social inclusivity at the subnational level. Drawing on empirical case studies and
+theoretical frameworks, we analyze how smart governance, data‐driven resource management, and
+digital platforms for SMEs enhance productivity while reducing ecological footprints and spatial
+inequalities. Special attention is given to the role of regional innovation ecosystems, digital skills
+development, and public–private partnerships in ensuring equitable technology diffusion. The
+study identifies critical success factors—including adaptive regulatory environments, cross‐
+sectoral data interoperability, and place‐based digital strategies—as well as persistent challenges
+such as the digital divide, data privacy concerns, and rebound effects. Ultimately, we argue that
+intelligent digitalization, when strategically aligned with sustainability goals, can catalyze a triple
+transition: toward low‐carbon, inclusive, and innovation‐led regional economies.`,
+        startPage: 1270,
+        pagesCount: 6,
+    },
+    {
+        id: 246,
+        title: `IMPROVING THE EFFICIENCY OF PLANT
+GROWING BY INNOVATIVE MEANS IN THE
+NORTHERN REGIONS OF THE RUSSIAN FEDERATION`,
+        authors: ["Amaeva Asset", "Gamzat Magomedbekov", "Angela Kurbanova"],
+        text: `In the context of growing demand for food and changing climate conditions, increasing the
+efficiency of crop production in the northern regions of the Russian Federation is of particular
+relevance. These territories are characterized by a short growing season, low temperatures, difficult
+soil conditions and limited availability of traditional agricultural crops. The article considers the
+possibilities of increasing crop productivity using innovative means: adapted varieties of
+agricultural crops, modern agricultural technologies, plant protection products, digital technologies
+and low‐mechanization. Particular attention is paid to the economic feasibility of introducing
+innovations and their impact on the sustainability of the agricultural sector in the northern regions.
+In addition, an analysis of the possibilities of applying such innovative solutions in the Chechen
+Republic is presented, which, despite favorable climatic conditions compared to traditional northern
+regions, faces a number of specific problems: a shortage of qualified personnel, limited access to
+modern technologies and insufficient financial support from regional structures. Examples of
+successful implementation of elements of innovative crop production in individual farms of the
+Arkhangelsk Region, the Komi Republic and the Chechen Republic are given. Recommendations
+are proposed for state support, development of a scientific and technical base and training of
+qualified personnel for the sustainable development of crop production both in traditional northern
+regions and in the mountainous foothills of the North Caucasus.`,
+        startPage: 1276,
+        pagesCount: 9,
+    },
+    {
+        id: 247,
+        title: `ECONOMIC MODELS OF SUSTAINABLE
+DEVELOPMENT: ANALYSIS OF SUCCESSFUL
+STRATEGIES IN INTERNATIONAL PRACTICE`,
+        authors: ["Giao Tran Xuan", "Chernova Svetlana"],
+        text: `This article critically examines empirically validated economic models that successfully integrate
+environmental stewardship, social equity, and long‐term economic resilience—moving beyond
+theoretical frameworks to actionable, place‐based strategies. Through a systematic comparative
+analysis of 12 high‐impact cases across Europe, Asia, Latin America, and Africa—including Costa
+Rica’s payment‐for‐ecosystem‐services (PES) system, Denmark’s circular industrial symbiosis
+networks, Bhutan’s Gross National Happiness (GNH)‐driven fiscal policy, and Rwanda’s green
+growth and climate‐resilience strategy—we identify core structural features of effective sustainable
+development models. Key success factors include: (1) institutional anchoring (e.g., constitutional
+mandates, independent sustainability councils); (2) economic instrument diversification (e.g.,
+green taxes, sustainability‐linked bonds, results‐based financing); (3) multi‐level governance
+alignment (local–national–global policy coherence); and (4) inclusive co‐creation involving
+Indigenous knowledge, civil society, and private sector coalitions. The study debunks the myth of a
+“one‐size‐fits‐all” model, demonstrating instead that contextual adaptability—particularly in
+balancing state steering, market mechanisms, and community agency—is critical. We propose a
+typology of four archetypal models: Ecological Fiscal Reform, Circular‐Regional Development,
+Wellbeing‐Oriented Governance, and Climate‐Resilient Inclusive Growth—each with transferable
+design principles. The findings provide policymakers and development practitioners with an
+evidence‐based roadmap for designing context‐sensitive, scalable, and politically feasible pathways
+toward the 2030 Agenda.`,
+        startPage: 1285,
+        pagesCount: 7,
+    },
+    {
+        id: 248,
+        title: `ENSURING ECONOMIC SECURITY OF
+AGRICULTURAL ENTERPRISES IN THE CONTEXT OF
+DIGITALIZATION AND GREENING OF THE ECONOMY`,
+        authors: ["Garun Sultanov", "Natalia Lazareva"],
+        text: `The convergence of digital transformation and the global green transition is redefining the
+foundations of agricultural competitiveness and resilience. This article examines how agricultural
+enterprises can strengthen their economic security—understood as the capacity to sustain financial
+stability, ensure resource sovereignty, and withstand systemic shocks—in an era marked by climate
+volatility, technological disruption, and evolving regulatory landscapes. Drawing on empirical data
+from the European Union, North America, and emerging economies, the study identifies three
+strategic pillars for enhancing economic security: (1) digital integration (e.g., precision farming,
+AI‐driven supply chain optimization, blockchain traceability), which improves productivity and
+market responsiveness; (2) green transition alignment (e.g., agroecological practices, circular
+bioeconomy models, carbon farming), which mitigates environmental risks and unlocks access to
+green finance and subsidies; and (3) adaptive governance, including risk diversification, public–
+private partnerships, and real‐time monitoring systems. The analysis reveals that enterprises
+combining digital and green strategies achieve 20–35% higher operational resilience and 15–25%
+better access to capital compared to those pursuing single‐dimensional approaches. However,
+significant barriers remain—particularly for small‐  and medium‐sized farms—including high
+upfront costs, digital literacy gaps, and fragmented policy support. The article proposes a holistic
+“Digital‐Green Security Framework” to guide policymakers and agribusiness leaders in co‐
+designing inclusive, scalable, and context‐sensitive pathways toward sustainable economic security
+in the agrifood sector.`,
+        startPage: 1292,
+        pagesCount: 6,
+    },
+    {
+        id: 249,
+        title: `LOCAL SOCIAL INITIATIVES AS A DRIVER  
+OF REGIONAL SUSTAINABLE DEVELOPMENT`,
+        authors: [
+            "Egorova Lyudmila Gennadievna",
+            "Kropotova Natalia Vladimirovna",
+            "Valeeva Lyudmila Vladimirovna",
+            "Surgan Marina Alexandrovna",
+        ],
+        text: `The aim of the study is to analyze the role of local social initiatives – specifically,
+participatory budgeting programs – as a driver of civic engagement and civil society
+institutions through the lens of regional sustainable development. The study focuses on
+rural settlements of the Republic of Crimea that participated in the participatory
+budgeting program between 2021 and 2024. The empirical basis consists of a sociological
+survey of 1,263 residents of all 14 municipal districts of Crimea, conducted via
+questionnaires. The study employed both quantitative and qualitative analysis methods,
+as well as an analysis of the Ministry of Finance of the Republic of Crimea official reports
+and data from the “Open Budget of the Republic of Crimea” portal. The study revealed
+that while most respondents are generally satisfied with conditions of living, they also
+note the presence of solvable local issues, which stimulates the development of grassroots
+initiatives. The most in‐demand types of participatory projects include the installation of
+childrenʹs and sports playgrounds, street lighting repairs, improvement of public spaces,
+parks and recreational areas. A positive trend in civic engagement was observed as the
+proportion of program participants in 2023 (16.7%) was nearly four times higher than in
+2021 (4.6%). The study confirms the importance of participatory budgeting as a tool for
+civil society development. Participatory budgeting is a critical instrument for regional
+sustainable development, enabling citizen involvement in decision‐making regarding
+budgetary expenditures, thereby improving transparency and resource efficiency. This
+approach addresses citizens’ most pressing concerns, improves quality of life, and
+cultivates a sense of ownership over local development.`,
+        startPage: 1298,
+        pagesCount: 12,
+    },
+    {
+        id: 250,
+        title: `PROJECT‐BASED LEARNING WITH GAMIFICATION
+ELEMENTS AS A MEANS OF PROMOTING
+SUSTAINABLE DEVELOPMENT PRINCIPLES`,
+        authors: [
+            "Kokhanova Liudmila",
+            "Latenkova Vera",
+            "Alekseeva Tatyana",
+            "Chereshneva Yulia",
+            "Alekseeva Natalya",
+            "Lyudkova Ekaterina",
+        ],
+        text: `The purpose of this study is to demonstrate that a distinctive feature and advantage of
+project‐based learning is that it enables the integration of educational and research
+objectives, along with gamification and the introduction of interactive learning. While
+project‐based learning focuses on helping students masterspecific knowledge on thetopics
+of general education courses in accordance with the journalism curriculum, gamification
+provides an opportunity to engage students in the learning process and apply their
+acquired knowledge in a given course in practice, influencing student personality and
+motivation for pursuing the profession. It is becoming increasingly clear that sustainable
+development plays a crucial role in all aspects of modern society, and the professional
+training of journalists is no exception. Everyone needs to be aware of environmental
+issues, especially journalists, as environmental journalism is a distinct field within
+journalism. The development of project‐based learning methods and forms using
+gamification elements is based on teaching practices that have contributed to the
+emergence of new areas of training in journalism, and more broadly, media, in a
+multimedia environment, as discussed in this article. Thus, during the course of ongoing
+educational activities, a number of projects have been implemented, primarily aimed at
+popularizing the principles of sustainable development.`,
+        startPage: 1310,
+        pagesCount: 7,
+    },
+    {
+        id: 251,
+        title: `HYPERLOCAL MEDIA PLATFORMS: ANALYSIS OF THEIR
+CONTRIBUTION TO THE SUSTAINABLE DEVELOPMENT
+AGENDA`,
+        authors: [
+            "Kokhanova Liudmila Aleksandrovna",
+            "Sokolov Aleksandr Vladimirovich",
+        ],
+        text: `This study examines the role of hyperlocal digital platforms in implementing sustainable
+development concepts, using Nextdoor as a case study. Research findings indicate that
+the platform demonstrates dual influence on ESG (Environmental, Social, and
+Governance) components. Users organize environmental initiatives (cleanups,
+community gardens) that contribute to achieving UN SDGs; however, the platformʹs
+governance system creates risks of polarization and misinformation dissemination. The
+study reveals that traditional ESG metrics are inadequate for evaluating technological
+platforms, necessitating the development of new approaches to analyzing  ʺplatform
+governanceʺ as a key component of sustainable development.`,
+        startPage: 1317,
+        pagesCount: 9,
+    },
     // Добавляй новые статьи сюда просто копируя блок выше
 ];
