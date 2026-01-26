@@ -380,5 +380,36 @@ development in the 2030s and beyond.`,
         startPage: 1326,
         pagesCount: 8,
     },
+    {
+        id: 253,
+        title: `DIGITAL ECONOMY AND SUSTAINABLE
+DEVELOPMENT: POTENTIAL AND RISKS FOR
+NATIONAL ECONOMIC SYSTEMS`,
+        authors: ["Gurbanova Aynur", "Gasanova Gunel", "Yanderbaeva Luiza"],
+        text: `The digital economy is increasingly recognized as a key driver of sustainable development, offering
+transformative potential for national economic systems through enhanced efficiency, innovation, and
+resource optimization. Digital technologies—such as big data, artificial intelligence, the Internet of
+Things, and blockchain—enable smarter energy management, transparent supply chains, and inclusive
+financial systems, contributing to the achievement of the UN Sustainable Development Goals (SDGs).
+They support green growth by reducing emissions through smart infrastructure, promoting circular
+economy models, and improving environmental monitoring and governance. However, the integration
+of digitalization into national economies also entails significant risks. These include rising energy
+consumption from data centers and digital infrastructure, growing electronic waste, deepening digital
+divides within and between countries, and the concentration of technological power in a few global
+corporations. Moreover, automation and platform economies may disrupt labor markets, exacerbate
+inequality, and undermine social sustainability if not properly regulated. This study examines the dual
+role of the digital economy in advancing or hindering sustainable development across different national
+contexts. It analyzes case studies from developed and emerging economies to assess how digital
+transformation influences economic resilience, environmental performance, and social inclusion. The
+research highlights policy frameworks that balance innovation with sustainability, emphasizing the
+need for digital literacy, green IT standards, data sovereignty, and inclusive digital infrastructure. The
+findings suggest that while the digital economy holds substantial potential for sustainable
+transformation, its benefits are not automatic. Strategic governance, international cooperation, and
+proactive regulation are essential to mitigate risks and ensure that digitalization supports long‐term
+ecological, economic, and social well‐being. The paper concludes with policy recommendations for
+building resilient, equitable, and sustainable digital economies in an era of rapid technological change.`,
+        startPage: 1334,
+        pagesCount: 9,
+    },
     // Добавляй новые статьи сюда просто копируя блок выше
 ];
