@@ -411,5 +411,66 @@ building resilient, equitable, and sustainable digital economies in an era of ra
         startPage: 1334,
         pagesCount: 9,
     },
+    {
+        id: 254,
+        title: `Bridging Health, Economy, and Ecology: A Preventive
+Healthcare Lens for Sustainable and Resilient Urban‐
+Regional Systems`,
+        authors: ["Alieva Papu", "Zotova Daria"],
+        text: `The integration of genomic data into public health systems marks a transformative shift in
+preventive medicine, disease surveillance, and personalized healthcare—key components of
+sustainable development. As nations advance national biobanks, population‐scale sequencing
+initiatives, and AI‐driven genetic analytics, the promise of improved health outcomes is
+counterbalanced by profound ethical, legal, and social challenges. This paper introduces the concept
+of the human factor as a central pillar in the governance of genetic data, arguing that sustainable
+health innovation must prioritize human dignity, equity, autonomy, and informed consent over
+technological efficiency alone. Drawing on international frameworks—including the UNESCO
+Universal Declaration on the Human Genome and Human Rights, the WHO guidelines on human
+genome editing, and GDPR provisions on sensitive data—the study examines how current genomic
+policies align with human rights standards. Through comparative analysis of national programs in
+the UK (UK Biobank), Estonia (Estonian Genome Center), the USA (All of Us Research Program),
+and Russia (National Genomic Initiative), the research identifies critical gaps in transparency, data
+protection, public trust, and equitable access. Findings reveal that while genomic technologies
+enhance early diagnosis and targeted interventions, they also risk exacerbating health inequalities,
+enabling genetic discrimination, and undermining privacy—particularly in centralized or state‐led
+models. The absence of inclusive governance mechanisms often sidelines vulnerable populations,
+contradicting the principles of sustainability and social justice. To address these challenges, the
+paper proposes a Human‐Centric Genomic Governance Framework (HCGG), integrating ethical
+foresight, participatory oversight, algorithmic accountability, and cross‐sectoral alignment with the
+UN Sustainable Development Goals (SDGs), particularly SDG 3 (Good Health and Well‐Being)
+and SDG 16 (Peace, Justice, and Strong Institutions).`,
+        startPage: 1343,
+        pagesCount: 11,
+    },
+    {
+        id: 255,
+        title: `GREEN TRANSFORMATION: INTEGRATING
+SUSTAINABILITY PRINCIPLES INTO CLASSIC
+BUSINESS MODELS`,
+        authors: ["Gridchina Aleksandra", "Breusova Anna"],
+        text: `In the context of global climate change and increasing environmental challenges, the concept of a
+green economy has emerged as a crucial framework for achieving sustainable development. This
+paper examines the transformation of traditional business models within the framework of a green
+economy, emphasizing the imperative to integrate environmental and social considerations into
+strategic planning. By analyzing the key principles of a green economy—such as carbon emission
+reduction, resourceefficiency, sustainable production and consumption, and biodiversity support—
+this study explores how these principles influence the adaptation of business practices. The paper
+further investigates the role of innovation in facilitating this transformation, highlighting how new
+technologies and business practices can lead to reduced environmental impact while also enhancing
+economic performance. Through case studies of successful transitions to sustainable business
+models, the research illustrates the diverse approaches organizations can take to align their
+operations with green economy principles. Moreover, the paper addresses the challenges enterprises
+face in implementing eco‐friendly technologies, including regulatory barriers, financial constraints,
+and the need for a cultural shift within organizations. It argues that overcoming these challenges is
+essential for the successful transition to a green economy, which not only promotes ecological
+sustainability but also creates new opportunities for growth, resilience, and competitive advantage.
+The findings underscore the importance of collaboration among stakeholders, including
+governments, businesses, and communities, to create an enabling environment for sustainable
+practices. Ultimately, this research contributes to the understanding of how a green economy can
+serve as a new paradigm for traditional business models, fostering a harmonious relationship
+between economic development and environmental stewardship.`,
+        startPage: 1354,
+        pagesCount: 7,
+    },
     // Добавляй новые статьи сюда просто копируя блок выше
 ];
