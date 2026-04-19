@@ -471,5 +471,285 @@ between economic development and environmental stewardship.`,
         startPage: 1354,
         pagesCount: 7,
     },
+    {
+      id: 257,
+      title: `CREATIVE ECONOMY AS A STRATEGIC LEVER FOR
+RESILIENT SUSTAINABLE REGIONAL DEVELOPMENT:
+INTEGRATING INNOVATION, ECOLOGY, AND
+ENTREPRENEURIAL ECOSYSTEMS`,
+      authors: ["Marina Krotova", "Elena Derkacheva", "Asker Sidzhakh"],
+      text: `The study examines transformation processes in regional business ecosystems (RBEs) under the influence of
+creative industries development. The main barriers limiting the growth of the creative economy at the regional
+level are identified, including the lack of institutional and resource support, weak integration of digital
+technologies and limited financing opportunities. A system for assessing the competitiveness of RBEs is
+proposed, including four key criteria: creative industries development, innovative and digital potential, socio‐
+economic effects, ecosystem dynamics and business environment. The key effects of creative industries
+development are identified, such as strengthening network interactions, diversification of entrepreneurial
+activity, growth of intellectual capital capitalization, increasing the competitiveness of the region and
+optimizing government participation. The study examines transformation processes in regionalentrepreneurial
+ecosystems (REEs) under the influence of creative industries development. The main barriers limiting the
+growth of the creative economy at the regional level are identified, including a lack of institutional and resource
+support, weak integration of digital technologies and limited financing opportunities. The study developed a
+system for assessing the competitiveness of the RPES, including four key criteria: development of creative
+industries, innovative and digital potential, socio‐economic effects, ecosystem dynamics and business
+environment. Measurable indicators were proposed for each criterion, including the share of creative industries
+in GRP, the level of digitalization of enterprises, the number of jobs in the creative sector, the number of
+accelerators and incubators for startups. Based on the analysis of empirical data, the key effects of creative
+industries development are identified: strengthening of network interactions, which is manifested in the
+increase in the number of collaborations between companies and educational organizations; diversification of
+entrepreneurial activity due to the involvement of the self‐employed and young people; growth of capitalization
+of intellectual capital, expressed in the increase in the number of patents and copyrights; increasing the
+competitiveness of the region through the development of local brands and attracting investors; as well as
+optimization of state participation in the development of the creative economy by improving the mechanisms of
+financial and educational support.`,
+      startPage: 1361,
+      pagesCount: 19,
+  },
+  {
+    id: 258,
+    title: `CREATIVE ECONOMY AS A STRATEGIC LEVER FOR
+RESILIENT AND SUSTAINABLE REGIONAL
+DEVELOPMENT: INTEGRATING INNOVATION, ECOLOGY,
+AND ENTREPRENEURIAL ECOSYSTEMS`,
+    authors: ["Ternavshchenko Kristina", "Bzhasso Anzaur", "Piven Irina"],
+    text: `The creative economy—encompassing arts, design, cultural heritage, digital media, and experiential
+services—is increasingly recognized not as a cultural luxury but as a dynamic engine for inclusive, place‐
+based development. This article argues that when strategically integrated with ecological principles and
+innovation‐driven entrepreneurship, the creative economy can serve as a powerful lever for building resilient,
+sustainable, and economically vibrant regions, particularly in post‐industrial or rural contexts facing
+demographic decline or economic stagnation. Drawing on a comparative analysis of 10 regional cases across
+Europe, Latin America, and Southeast Asia—including the Øresund Region (Denmark/Sweden), Medellín
+(Colombia), Porto (Portugal), and Chiang Mai (Thailand)—the study identifies three synergistic drivers of
+success: (1) creative‐ecological hybridization, where cultural expression and environmental stewardship co‐
+evolve (e.g., regenerative tourism, bio‐based design, heritage‐led landscape restoration); (2) embedded
+innovation ecosystems, linking artists, tech entrepreneurs, universities, and local governments in
+collaborative value creation; and (3) place‐based entrepreneurialsupport, including creativeincubators, green
+microfinance, and digital platforms for local markets. Results show that regions adopting this integrated
+approach report 25–40% higher job creation in youth and female‐led enterprises, enhanced cultural vitality,
+reduced environmental footprints, and stronger social cohesion compared to conventional industrial policies.
+The article proposes a Creative‐Resilient Regional Development Framework to guide policymakersin aligning
+cultural assets, ecological limits, and entrepreneurial energy toward long‐term sustainability. By centering
+human creativity as both an economic and ecological resource, regions can move beyond extractive models
+toward regenerative prosperity.`,
+    startPage: 1380,
+    pagesCount: 7,
+},
+{
+  id: 259,
+  title: `THE ROLE OF INSTITUTIONAL ENVIRONMENT IN
+SUSTAINABLE REGIONAL DEVELOPMENT: GOVERNANCE
+QUALITY, POLICY COHERENCE, AND MULTI‐LEVEL
+COORDINATION`,
+  authors: ["Ternavshchenko Kristina", "Bzhasso Anzaur", "Piven Irina"],
+  text: `The sustainability of regional development increasingly depends not only on technological innovation or
+financial investment but on the quality and coherence of the institutional environment. This study investigates
+the role of institutions in shaping sustainable trajectories across diverse regional contexts, with a focus on three
+core dimensions: governance quality, policy coherence, and multi‐level coordination. Drawing on a mixed‐
+methods approach—including panel data analysis of 120 regions across 15 countries (2010–2023), comparative
+case studies (Estonia, Germany, Colombia, Russia), and expert interviews—this research identifies the
+institutional mechanisms that enable or hinder progress toward integrated economic, environmental, and social
+outcomes. Findings reveal that regions with higher governance quality—measured by transparency, regulatory
+efficiency, and public accountability—achieve significantly better performance on sustainability indicators,
+including renewable energy adoption (SDG 7), green employment (SDG 8), and urban resilience (SDG 11). A
+strong positive correlation (r = 0.71) is observed between subnational governance scores and regional SDG
+Index performance. Moreover, policy coherence—the alignment of national strategies with local
+implementation priorities—emerges as a critical factor: fragmented institutional mandates lead to duplicated
+efforts and inefficient resource use, particularly in climate action and digital transition programs. The most
+effective cases demonstrate robust multi‐level coordination frameworks, such as joint planning platforms,
+intergovernmental fiscal instruments, and participatory monitoring systems. These structures facilitate
+feedback loops between central governments and regional actors, enabling adaptive governance and context‐
+sensitive solutions. In contrast, centralized models with weak local autonomy—exemplified by Russia’s top‐
+down digital economy program—show limited integration with sustainability goals and uneven spatial
+outcomes. This paper argues that sustainable regional development is fundamentally an institutional challenge.
+It proposes an analytical framework linking institutional thickness, policy integration, and vertical governance
+alignment as prerequisitesforlong‐term resilience. Theresults offer actionableinsightsfor policymakersseeking
+to strengthen regional capacities, improve intergovernmental coordination, and ensure that sustainability
+transitions are both inclusive and scalable`,
+  startPage: 1387,
+  pagesCount: 9,
+},
+{
+  id: 260,
+  title: `DIGITALIZATION AS A STRATEGIC LEVER FOR
+SUSTAINABLE ECONOMIC DEVELOPMENT:
+INTEGRATING NATIONAL DIGITAL AGENDAS WITH
+LOCAL SUSTAINABILITY PATHWAYS`,
+  authors: ["Galitskaya Yulia", "Kesova Zaira", "Chebanov Ilya"],
+  text: `Digitalization has emerged as a pivotal strategic lever for advancing sustainable economic development in
+the 21st century. While technological transformation drives efficiency, innovation, and inclusivity, its full
+potential remains unrealized without deliberate integration into broader sustainability frameworks. This
+study examines how digitalization can act as a catalyst for sustainable growth by aligning national digital
+agendas with local sustainability pathways. Through a mixed‐methods approach—including comparative
+case analysis, policy document review, expert interviews, and quantitative assessment across 15 countries—
+the research identifies key mechanisms that enable synergistic outcomes between digital transformation and
+sustainability goals.
+Findings reveal that countries adopting co‐creative governance models—where national strategies are
+dynamically aligned with local implementation through multi‐stakeholder engagement, open data platforms,
+and decentralized decision‐making—achieve significantly higher progress on SDG‐related indicators,
+particularly in energy efficiency (SDG 7), sustainable cities (SDG 11), and inclusive innovation (SDGs 8
+and 9). Strong correlations (r = 0.68) are observed between ICT Development Index scores and overall SDG
+performance, underscoring the systemic role of digital infrastructure. However, disparities persist in low‐ 
+and middle‐income regions due to fragmented policies, limited institutional capacity, and the digital divide.
+The study proposes an integrative framework that positions digitalization not as a standalone agenda but as
+an enabling infrastructure embedded within sustainability transitions. It highlights the importance of
+regulatory coherence, feedback loops between local innovation and national policy, and equity‐centered design
+to avoid exclusionary outcomes. By bridging the gap between macro‐level digital strategies and micro‐level
+sustainability challenges, this research offers actionable insights for policymakers, urban planners, and
+international organizations seeking to harness d`,
+  startPage: 1396,
+  pagesCount: 15,
+},
+{
+  id: 259,
+  title: `DIGITAL TECHNOLOGIES AS CATALYSTS FOR
+SUSTAINABLE SERVICE INNOVATION: ALIGNING
+BUSINESS MODEL TRANSFORMATION WITH NATIONAL
+AND URBAN SUSTAINABILITY STRATEGIES`,
+  authors: ["Tatuev Arsen", "Gorbunov Alexander", "Taran Oleg"],
+  text: `Therapid advancement of digital technologies — including artificial intelligence, theInternet of Things(IoT),
+big data analytics, and platform ecosystems — is fundamentally reshaping business models across the service
+sector. While much attention has focused on efficiency, scalability, and customer personalization, this paper
+argues that digital transformation holds transformative potential for sustainable development when
+strategically aligned with national and urban sustainability agendas. Drawing on a mixed‐methods approach
+combining policy analysis, cross‐sector case studies, and systems thinking, the study explores how digital
+serviceinnovation can act as a catalyst for achieving environmental,social, and economic sustainability goals.
+However, the study also reveals a critical misalignment: while firms innovate digitally, their business models
+often operate in silos, disconnected from broader public sustainability strategies such as carbon neutrality
+targets, circular economy roadmaps, or SDG‐localization efforts. This gap limits systemic impact and risks
+ʺdigital greenwashingʺ  — where technological progress masks persistent environmental footprints. The
+findings highlight the importance of public‐private co‐governance, policy incentives, and interoperable data
+infrastructures in aligning corporate innovation with societal goals. Successful cases demonstrate that when
+digital service transformation isembedded within national and urban sustainability frameworks — supported
+by regulatory foresight, shared KPIs, and multi‐stakeholder collaboration — it drives co‐benefits across
+economic competitiveness, citizen well‐being, and planetary boundaries. The paper concludes with a proposed
+Digital‐Sustainability Alignment Framework (DSAF), offering policymakers and business leaders a strategic
+roadmap to harness digital technologies not merely as tools of disruption, but as intentional levers for
+sustainableserviceinnovation. It callsfor a paradigm shift: from isolated digitalization to integrated, purpose‐
+driven transformation that positions sustainability at the core of the digital service economy.`,
+  startPage: 1411,
+  pagesCount: 12,
+},
+{
+  id: 262,
+  title: `THE HUMAN FACTOR IN SUSTAINABLE SERVICE
+DESIGN: TRANSFORMING CUSTOMER EXPERIENCE
+MANAGEMENT FROM TRADITIONAL TO DIGITAL‐
+ENABLED, ETHICALLY GROUNDED MODELS`,
+  authors: ["Gorbunov Alexander", "Tatuev Arsen", "Taran Oleg"],
+  text: `As digital transformation reshapes the service economy, customer experience (CX) management is evolving
+beyond efficiency and personalization toward a deeper integration of sustainability and human‐centered
+values. This paper introduces the human factor as a central axis in the paradigm of sustainable service design,
+arguing that long‐term service innovation must balance technological advancement with ethical
+responsibility, emotional well‐being, and socio‐environmental impact. Drawing on interdisciplinary research
+in service science, behavioral psychology, digital ethics, and sustainable development, the study examines
+how traditional CX models — focused on satisfaction and retention — are being redefined by digital tools
+that enable transparency, co‐creation, and sustainable consumer engagement. The analysis highlights a
+critical tension: while digital platforms (AI‐driven personalization, chatbots, omnichannel ecosystems)
+enhance convenience, they often risk dehumanizing interactions, eroding trust, and promoting
+overconsumption. In contrast, ethically grounded models of CX prioritize empathy, autonomy, and shared
+value, aligning customer journeys with the principles of the UN Sustainable Development Goals (SDGs),
+particularly SDG 12 (Responsible Consumption and Production) and SDG 8 (Decent Work and Economic
+Growth).`,
+  startPage: 1423,
+  pagesCount: 10,
+},
+{
+  id: 263,
+  title: `INVESTING IN SUSTAINABLE DEVELOPMENT: TRENDS
+AND OPPORTUNITIES OF GREEN TECHNOLOGIES IN
+ADDRESSING ENVIRONMENTAL POLLUTION`,
+  authors: ["Mikhail Kazakov", "SevSirieva Yakha", "Natkho Susanna"],
+  text: `Carbon, primarily in the form of carbon dioxide (CO₂), plays a central role in the Earth’s greenhouse effect
+and the ongoing process of climate change. Naturally present in the atmosphere, CO₂ and other carbon‐based
+greenhouse gases such as methane (CH₄) and nitrous oxide (N₂O) trap heat radiated from the Earth’s surface,
+maintaining global temperatures at levels suitable for life. However, since the Industrial Revolution, human
+activities—especially the burning of fossil fuels, deforestation, and industrial processes—have significantly
+increased atmospheric carbon concentrations. This enhanced greenhouse effect is driving global warming,
+leading to rising average temperatures, melting ice caps, sea level rise, and more frequent extreme weather
+events. The carbon cycle, which governs the movement of carbon between the atmosphere, oceans, biosphere,
+and geosphere, is now heavily disrupted by anthropogenic emissions. Understanding the dynamics of carbon
+in the climate system is essential for developing effective mitigation strategies, such as carbon capture and
+storage (CCS), reforestation, and the transition to renewable energy sources. This paper examines the
+scientific mechanisms linking carbon to the greenhouse effect, analyzes current trends in carbon emissions,
+and discusses the urgent need for global action to achieve carbon neutrality and limit the impacts of climate
+change.`,
+  startPage: 1433,
+  pagesCount: 7,
+},
+{
+  id: 264,
+  title: `SMALL ENTERPRISE PARTICIPATION IN THE GREEN
+ECONOMY: PATHWAYS TO SUSTAINABLE
+DEVELOPMENT AND ECONOMIC GROWTH`,
+  authors: ["Taranova Irina", "Ludmila Goloshchapova", "Daria Golyzhnikova"],
+  text: `The transition to a green economy presents both challenges and opportunities for small enterprises, which
+play a vital role in local economic development and innovation. This article explores the intersection
+between small businesses and the green economy, identifying key points of connection where small
+enterprises can contribute to and benefit from sustainable development. The study analyses how small
+businesses engage in green sectors such as renewable energy, eco‐tourism, sustainable agriculture, and
+resource‐efficient manufacturing. Based on a qualitative analysis of case studies and policy frameworks, the
+article highlights the drivers and barriers influencing small enterprise participation in the green economy.
+These include access to green financing, availability of sustainable technologies, regulatory support, and
+market demand for eco‐friendly products and services. The research also emphasizes the role of local and
+national policies in fostering an enabling environment for green entrepreneurship. The findings suggest
+that small enterprises are not only capable of adapting to sustainability trends but can also act as catalysts
+for innovation and inclusive growth within the green economy. Strategic partnerships, capacity‐building
+initiatives, and targeted support mechanisms are identified as key enablers for expanding small business
+engagement in sustainable economic practice. This article provides insights for policymakers,
+entrepreneurs, and development practitioners on how to strengthen the integration of small enterprises into
+the green economy, promoting both environmental sustainability and economic resilience`,
+  startPage: 1440,
+  pagesCount: 7,
+},
+{
+  id: 265,
+  title: `GREEN ECONOMY AND SUSTAINABLE CITIES: THE
+ROLE OF COMMUNITY ENGAGEMENT IN URBAN
+ENVIRONMENTAL DEVELOPMENT`,
+  authors: ["Ternavshchenko Kristina", "Bzhasso Anzaur", "Piven Irina"],
+  text: `The transition to sustainable cities is increasingly recognized as a cornerstone of the global green economy
+agenda. While technological solutions and top‐down policy frameworks dominate mainstream discourse, this
+article argues that meaningful community engagement is a critical, yet often underleveraged, driver
+of effective and equitable urban environmental development. Drawing on a comparative analysis of 14
+participatory urban initiatives across Europe, Latin America, Africa, and Southeast Asia—including
+Barcelona’s “superblocks,” Medellín’s green corridor co‐design, Cape Town’s community energy
+cooperatives, and Bangkok’s urban farming networks—the study identifies three core functions of community
+engagement: (1) enhancing local relevance and contextual adaptation of green interventions; (2)
+building social legitimacy and trust, which increases compliance and long‐term stewardship; and (3)
+fostering inclusive innovation, where residents co‐create low‐cost, scalable solutions (e.g., rainwater
+harvesting, waste‐to‐compost systems, pocket parks). Quantitative and qualitative data reveal that projects
+with deep community participation achieve 30–50% higher implementation success rates, greater
+environmental co‐benefits (e.g., biodiversity, air quality, thermal comfort), and stronger social cohesion
+compared to expert‐led approaches. However, the research also identifies persistent challenges, including
+tokenistic consultation, power imbalances, and lack of institutional anchoring. The article proposes a
+Community‐Integrated Green City Framework that outlines principles for embedding participatory
+governance into urban planning, finance, and monitoring systems. By centering community agency, cities
+can move beyond green gentrification and technocratic fixes toward a just, resilient, and truly sustainable
+urban future.`,
+  startPage: 1447,
+  pagesCount: 6,
+},
+{
+  id: 266,
+  title: `DIGITALIZATION AND INTELLIGENT
+TECHNOLOGIES AS DRIVERS OF SUSTAINABLE
+DEVELOPMENT OF THE REGIONAL ECONOMY`,
+  authors: ["Ilyasov Ruslan", "Kozyubro Tatyana", "Natkho Susanna3"],
+  text: `Digitalization and intelligent technologies—encompassing artificial intelligence, big data analytics, the
+Internet of Things (IoT), blockchain, and smart infrastructure—are increasingly recognized as pivotal
+enablers of sustainable regional development. This article explores the mechanisms through which digital
+transformation fosters economic resilience, environmental stewardship, and social inclusivity at the
+subnational level. Drawing on empirical case studies and theoretical frameworks, we analyze how smart
+governance, data‐driven resource management, and digital platforms for SMEs enhance productivity while
+reducing ecological footprints and spatial inequalities. Special attention is given to the role of regional
+innovation ecosystems, digital skills development, and public–private partnerships in ensuring equitable
+technology diffusion. The study identifies critical success factors—including adaptive regulatory
+environments, cross‐sectoral data interoperability, and place‐based digital strategies—as well as persistent
+challenges such as the digital divide, data privacy concerns, and rebound effects. Ultimately, we argue that
+intelligent digitalization, when strategically aligned with sustainability goals, can catalyze a triple
+transition: toward low‐carbon, inclusive, and innovation‐led regional economies.`,
+  startPage: 1453,
+  pagesCount: 5,
+},
     // Добавляй новые статьи сюда просто копируя блок выше
 ];
