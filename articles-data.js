@@ -438,38 +438,8 @@ paper proposes a Human‐Centric Genomic Governance Framework (HCGG), integratin
 foresight, participatory oversight, algorithmic accountability, and cross‐sectoral alignment with the
 UN Sustainable Development Goals (SDGs), particularly SDG 3 (Good Health and Well‐Being)
 and SDG 16 (Peace, Justice, and Strong Institutions).`,
-        startPage: 1343,
-        pagesCount: 11,
-    },
-    {
-        id: 255,
-        title: `GREEN TRANSFORMATION: INTEGRATING
-SUSTAINABILITY PRINCIPLES INTO CLASSIC
-BUSINESS MODELS`,
-        authors: ["Gridchina Aleksandra", "Breusova Anna"],
-        text: `In the context of global climate change and increasing environmental challenges, the concept of a
-green economy has emerged as a crucial framework for achieving sustainable development. This
-paper examines the transformation of traditional business models within the framework of a green
-economy, emphasizing the imperative to integrate environmental and social considerations into
-strategic planning. By analyzing the key principles of a green economy—such as carbon emission
-reduction, resourceefficiency, sustainable production and consumption, and biodiversity support—
-this study explores how these principles influence the adaptation of business practices. The paper
-further investigates the role of innovation in facilitating this transformation, highlighting how new
-technologies and business practices can lead to reduced environmental impact while also enhancing
-economic performance. Through case studies of successful transitions to sustainable business
-models, the research illustrates the diverse approaches organizations can take to align their
-operations with green economy principles. Moreover, the paper addresses the challenges enterprises
-face in implementing eco‐friendly technologies, including regulatory barriers, financial constraints,
-and the need for a cultural shift within organizations. It argues that overcoming these challenges is
-essential for the successful transition to a green economy, which not only promotes ecological
-sustainability but also creates new opportunities for growth, resilience, and competitive advantage.
-The findings underscore the importance of collaboration among stakeholders, including
-governments, businesses, and communities, to create an enabling environment for sustainable
-practices. Ultimately, this research contributes to the understanding of how a green economy can
-serve as a new paradigm for traditional business models, fostering a harmonious relationship
-between economic development and environmental stewardship.`,
         startPage: 1354,
-        pagesCount: 7,
+        pagesCount: 18,
     },
     {
       id: 257,
@@ -750,6 +720,33 @@ intelligent digitalization, when strategically aligned with sustainability goals
 transition: toward low‐carbon, inclusive, and innovation‐led regional economies.`,
   startPage: 1453,
   pagesCount: 5,
+},
+{
+  id: 267,
+  title: `GREEN TRANSFORMATION: INTEGRATING
+SUSTAINABILITY PRINCIPLES INTO CLASSIC BUSINESS
+MODELS`,
+  authors: ["Gridchina Aleksandra", " Breusova Anna", "Bogomolova Lyudmila"],
+  text: `In the context of global climate change and increasing environmental challenges, the concept of a green economy
+has emerged as a crucial framework for achieving sustainable development. This paper examines the transformation
+of traditional business models within the framework of a green economy, emphasizing the imperative to integrate
+environmental and social considerations into strategic planning. By analyzing the key principles of a green
+economy—such as carbon emission reduction, resource efficiency, sustainable production and consumption, and
+biodiversity support—this study explores how these principles influence the adaptation of business practices. The
+paper further investigates the role of innovation in facilitating this transformation, highlighting how new
+technologies and business practices can lead to reduced environmental impact while also enhancing economic
+performance. Through case studies of successful transitions to sustainable business models, the research illustrates
+the diverse approaches organizations can take to align their operations with green economy principles. Moreover,
+the paper addresses the challenges enterprises face in implementing eco‐friendly technologies, including regulatory
+barriers, financial constraints, and the need for a cultural shift within organizations. It argues that overcoming
+these challenges is essential for the successful transition to a green economy, which not only promotes ecological
+sustainability but also creates new opportunities for growth, resilience, and competitive advantage.
+The findings underscore the importance of collaboration among stakeholders, including governments, businesses,
+and communities, to create an enabling environment for sustainable practices. Ultimately, this research contributes
+to the understanding of how a green economy can serve as a new paradigm for traditional business models, fostering
+a harmonious relationship between economic development and environmental stewardship.`,
+  startPage: 1458,
+  pagesCount: 6,
 },
 
     // Добавляй новые статьи сюда просто копируя блок выше
