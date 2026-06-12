@@ -751,5 +751,6 @@ transition: toward low‐carbon, inclusive, and innovation‐led regional econom
   startPage: 1453,
   pagesCount: 5,
 },
+
     // Добавляй новые статьи сюда просто копируя блок выше
 ];
