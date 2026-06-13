@@ -668,36 +668,8 @@ initiatives, and targeted support mechanisms are identified as key enablers for 
 engagement in sustainable economic practice. This article provides insights for policymakers,
 entrepreneurs, and development practitioners on how to strengthen the integration of small enterprises into
 the green economy, promoting both environmental sustainability and economic resilience`,
-  startPage: 1440,
-  pagesCount: 7,
-},
-{
-  id: 265,
-  title: `GREEN ECONOMY AND SUSTAINABLE CITIES: THE
-ROLE OF COMMUNITY ENGAGEMENT IN URBAN
-ENVIRONMENTAL DEVELOPMENT`,
-  authors: ["Ternavshchenko Kristina", "Bzhasso Anzaur", "Piven Irina"],
-  text: `The transition to sustainable cities is increasingly recognized as a cornerstone of the global green economy
-agenda. While technological solutions and top‐down policy frameworks dominate mainstream discourse, this
-article argues that meaningful community engagement is a critical, yet often underleveraged, driver
-of effective and equitable urban environmental development. Drawing on a comparative analysis of 14
-participatory urban initiatives across Europe, Latin America, Africa, and Southeast Asia—including
-Barcelona’s “superblocks,” Medellín’s green corridor co‐design, Cape Town’s community energy
-cooperatives, and Bangkok’s urban farming networks—the study identifies three core functions of community
-engagement: (1) enhancing local relevance and contextual adaptation of green interventions; (2)
-building social legitimacy and trust, which increases compliance and long‐term stewardship; and (3)
-fostering inclusive innovation, where residents co‐create low‐cost, scalable solutions (e.g., rainwater
-harvesting, waste‐to‐compost systems, pocket parks). Quantitative and qualitative data reveal that projects
-with deep community participation achieve 30–50% higher implementation success rates, greater
-environmental co‐benefits (e.g., biodiversity, air quality, thermal comfort), and stronger social cohesion
-compared to expert‐led approaches. However, the research also identifies persistent challenges, including
-tokenistic consultation, power imbalances, and lack of institutional anchoring. The article proposes a
-Community‐Integrated Green City Framework that outlines principles for embedding participatory
-governance into urban planning, finance, and monitoring systems. By centering community agency, cities
-can move beyond green gentrification and technocratic fixes toward a just, resilient, and truly sustainable
-urban future.`,
   startPage: 1447,
-  pagesCount: 6,
+  pagesCount: 13,
 },
 {
   id: 266,
@@ -748,6 +720,32 @@ a harmonious relationship between economic development and environmental steward
   startPage: 1458,
   pagesCount: 6,
 },
+{
+  id: 268,
+  title: `GREEN ECONOMY AND SUSTAINABLE CITIES: THE ROLE
+OF COMMUNITY ENGAGEMENT IN URBAN ENVIRONMENTAL
+DEVELOPMENT`,
+  authors: ["Kozyubro Tatyana", "Zhanna Gornostaeva", "Nazarova Natalia"],
+  text: `The transition to sustainable cities is increasingly recognized as a cornerstone of the global green economy agenda. While
+technological solutions and top‐down policy frameworks dominate mainstream discourse, this article argues that
+meaningful community engagement is a critical, yet often underleveraged, driver of effective and equitable
+urban environmental development. Drawing on a comparative analysis of 14 participatory urban initiatives across
+Europe, Latin America, Africa, and Southeast Asia—including Barcelona’s “superblocks,” Medellín’s green corridor co‐
+design, Cape Town’s community energy cooperatives, and Bangkok’s urban farming networks—the study identifies three
+core functions of community engagement: (1) enhancing local relevance and contextual adaptation of green
+interventions; (2) building social legitimacy and trust, which increases compliance and long‐term stewardship; and
+(3) fostering inclusive innovation, where residents co‐create low‐cost, scalable solutions (e.g., rainwater harvesting,
+waste‐to‐compost systems, pocket parks). Quantitative and qualitative data reveal that projects with deep community
+participation achieve 30–50% higher implementation success rates, greater environmental co‐benefits (e.g., biodiversity,
+air quality, thermal comfort), and stronger social cohesion compared to expert‐led approaches. However, the research also
+identifies persistent challenges, including tokenistic consultation, power imbalances, and lack of institutional anchoring.
+The article proposes a Community‐Integrated Green City Framework that outlines principles for embedding
+participatory governance into urban planning, finance, and monitoring systems. By centering community agency, cities
+can move beyond green gentrification and technocratic fixes toward a just, resilient, and truly sustainable urban future.`,
+  startPage: 1458,
+  pagesCount: 6,
+},
+
 
     // Добавляй новые статьи сюда просто копируя блок выше
 ];

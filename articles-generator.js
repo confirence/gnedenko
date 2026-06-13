@@ -18,7 +18,7 @@ function generateArticleHTML(article) {
     const pageRange = getPageRange(startPage, pagesCount);
     const authorsString = authors.join(", ");
     const pdfLink = `./Journal/RTA_2_2025-${id}.pdf`;
-    const doiLink = `./cyberleninka/article${id}.html`;
+    const doiLink = `./cyberleninka/article.html?id=${id}`;
     const doiUrl = `https://doi.org/10.24412/1932-2321-2025-284-${pageRange}`;
 
     return `
