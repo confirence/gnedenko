@@ -348,37 +348,8 @@ governance system creates risks of polarization and misinformation dissemination
 study reveals that traditional ESG metrics are inadequate for evaluating technological
 platforms, necessitating the development of new approaches to analyzing  ʺplatform
 governanceʺ as a key component of sustainable development.`,
-        startPage: 1317,
-        pagesCount: 9,
-    },
-    {
-        id: 252,
-        title: `SUSTAINABLE ECONOMIC GROWTH IN THE AGE
-OF GREENTECH: STRATEGIC FRAMEWORKS AND
-PRACTICAL EXAMPLES`,
-        authors: ["Kolmagorov Konstantin", "Eremina Irina", "Ilaeva Zarema"],
-        text: `The accelerating diffusion of green technologies—from renewable energy and smart grids to green
-hydrogen, circular materials, and AI‐driven resource optimization—is reshaping the foundations
-of economic growth. Yet technological potential alone is insufficient to guarantee sustainability; its
-economic and social outcomes depend critically on the strategic frameworks that govern
-deployment, financing, and inclusion. This article bridges the gap between green innovation and
-systemic economic transformation by analyzing how nations and regions are integrating green tech
-into coherent growth strategies that advance climate resilience, job creation, and equitable
-development. Drawing on comparative case studies—including Germany’s industrial
-decarbonization roadmap, South Korea’s Digital Green New Deal, Morocco’s Noor Solar Plan, and
-Estonia’s e‐governance‐enabled circular economy—we identify three enabling pillars of successful
-green‐tech‐driven growth: (1) mission‐oriented innovation policy that aligns public R&D,
-procurement, and regulatory sandboxes around societal challenges; (2) just transition
-mechanisms that re‐skill workforces and reinvest in fossil‐fuel‐dependent communities; and (3)
-digital‐environmental synergies that leverage data infrastructure for transparency, efficiency,
-and participatory governance. The study further proposes a dynamic framework—The Green Tech
-Growth Matrix—to help policymakers assess technological readiness, institutional capacity, and
-distributional impacts in designing context‐sensitive strategies. By moving beyond techno‐
-optimism to focus on governance, equity, and adaptive institutions, this research offers actionable
-insights for aligning the green tech revolution with the goals of inclusive and sustainable
-development in the 2030s and beyond.`,
         startPage: 1326,
-        pagesCount: 8,
+        pagesCount: 17,
     },
     {
         id: 256,
@@ -746,6 +717,168 @@ can move beyond green gentrification and technocratic fixes toward a just, resil
   pagesCount: 6,
 },
 
+{
+  id: 269,
+  title: `SECURING THE GREEN DIGITAL TRANSITION:
+CYBERSECURITY AS A GUARDIAN OF INTELLECTUAL
+CAPITAL AND PERSONAL DATA IN RESILIENT URBAN AND
+REGIONAL SUSTAINABILITY STRATEGIES`,
+  authors: ["Phuc Hau Nguyen", "Natalia Magzumova", "Bruzhukova Olga"],
+  text: `The green digital transition represents a pivotal convergence of environmental sustainability and technological
+innovation, driving urban and regional development toward climate resilience, energy efficiency, and inclusive
+growth. As cities and regions increasingly rely on smart infrastructure, Internet of Things (IoT) networks, artificial
+intelligence, and data‐driven governance to achieve sustainability goals, they also become more vulnerable to cyber
+threats. This paper argues that cybersecurity must be positioned not merely as a technical safeguard, but as a strategic
+enabler and guardian of intellectual capital and personal data within resilient sustainability frameworks. Intellectual
+capital—encompassing proprietary technologies, innovative business models, and institutional knowledge—is
+critical to advancing green solutions such as renewable energy integration, circular economies, and low‐carbon
+transportation. Simultaneously, the collection and processing of vast amounts of personal data through smart city
+applications raise significant privacy and ethical concerns. Cyberattacks targeting this dual asset base can disrupt
+essential services, erode public trust, and undermine long‐term sustainability efforts. Through a multidisciplinary
+analysis, this study examines emerging cyber risks in green digital initiatives, including supply chain vulnerabilities,
+insecure IoT devices, and state‐sponsored industrial espionage. It highlights best practices in cybersecurity
+governance, emphasizing proactive risk assessment, zero‐trust architectures, encryption standards, and cross‐sector
+collaboration. Case studies from European smart cities and North American regional climate resilience programs
+illustrate how integrating cybersecurity into sustainability planning enhances both operational integrity and societal
+confidence. The paper concludes that a secure green digital transition requires a holistic approach—one that embeds
+cybersecurity by design and by default into urban and regional strategies. By protecting intellectual capital and
+ensuring the responsible stewardship of personal data, cybersecurity becomes a cornerstone of trustworthy, equitable,
+and resilient sustainable development in the digital age.`,
+  startPage: 1464,
+  pagesCount: 8,
+},
+
+
+{
+  id: 270,
+  title: `THE ECONOMICS OF INDUSTRIAL TRANSFORMATION:
+OPPORTUNITIES AND THREATS IN ACHIEVING
+SUSTAINABLE DEVELOPMENT`,
+  authors: ["Voskanov Mikhail", "Tatyana Ilyina", "Zakharova Natalia"],
+  text: `Industrial transformation is at the heart of the global transition to sustainable development, yet its economic
+implications remain complex and contested. This article examines the dual dynamics of opportunity and risk as
+heavy‐emitting, resource‐intensive industries—such as steel, chemicals, cement, and manufacturing—reconfigure
+their operations in response to climate imperatives, circular economy principles, and digital disruption. Drawing
+on empirical evidence from the European Union, China, the United States, and emerging industrial economies, the
+study identifies key economic opportunities: productivity gains from resource efficiency, new markets in green
+technologies, job creation in clean industrial sectors, and enhanced competitiveness through innovation. At the
+same time, it highlights critical threats: stranded assets, job displacement in fossil‐dependent regions, rising
+inequality between “green” and “brown” firms, and the risk of carbon leakage in a fragmented global policy
+landscape. Using a political economy lens, the analysis underscores that the net impact of industrial transformation
+hinges not on technology alone, but on the design of enabling institutions—industrial policy, just transition
+frameworks, skills retraining systems, and international cooperation mechanisms. The article proposes an
+integrated Sustainable Industrial Transformation Framework that balances decarbonization, economic
+resilience, and social inclusion. It concludes that without proactive, coordinated, and equitable governance,
+industrial transformation may deepen economic divides rather than advance shared prosperity.`,
+  startPage: 1472,
+  pagesCount: 5,
+},
+
+{
+  id: 271,
+  title: `INTEGRATING DIGITAL TECHNOLOGIES INTO
+ENVIRONMENTAL EDUCATION: IMPLICATIONS FOR
+PEDAGOGICAL TRAINING`,
+  authors: ["Kubrina Lyudmila"],
+  text: `The integration of digital technologies into environmental education has become a pivotal strategy for enhancing
+sustainability awareness and pedagogical effectiveness in teacher training systems. This study explores the
+transformative potential of digital tools—such as virtual simulations, educational platforms, mobile applications,
+and data visualization resources—in fostering environmental literacy among pre‐service and in‐service teachers.
+By analyzing current practices and case studies from diverse educational contexts, the paper highlights how digital
+technologies support interactive, inquiry‐based, and experiential learning approaches aligned with sustainable
+development goals. Furthermore, it examines the implications for curriculum design, professional development,
+and the development of eco‐conscious teaching methodologies. The findings suggest that strategically implemented
+digital solutions can significantly strengthen environmental education within pedagogical training, promoting
+both teacher competence and student engagement. The paper concludes with recommendations for policy makers
+and teacher education institutions to leverage digital innovation for building a more sustainable and
+environmentally responsible education system.`,
+  startPage: 1477,
+  pagesCount: 8,
+},
+
+
+{
+  id: 272,
+  title: `SUSTAINABLE ECONOMIC GROWTH IN THE AGE OF
+GREENTECH: STRATEGIC FRAMEWORKS AND PRACTICAL
+EXAMPLES`,
+  authors: ["Kolmagorov Konstantin", "Eremina Irina", "Рокrovskaya Tatyana"],
+  text: `The accelerating diffusion of green technologies—from renewable energy and smart grids to green hydrogen, circular
+materials, and AI‐driven resource optimization—is reshaping the foundations of economic growth. Yet technological
+potential alone is insufficient to guarantee sustainability; its economic and social outcomes depend critically on the
+strategic frameworks that govern deployment, financing, and inclusion. This article bridges the gap between green
+innovation and systemic economic transformation by analyzing how nations and regions are integrating green tech into
+coherent growth strategies that advance climate resilience, job creation, and equitable development. Drawing on
+comparative case studies—including Germany’s industrial decarbonization roadmap, South Korea’s Digital Green New
+Deal, Morocco’s Noor Solar Plan, and Estonia’s e‐governance‐enabled circular economy—we identify three enabling
+pillars of successful green‐tech‐driven growth: (1) mission‐oriented innovation policy that aligns public R&D,
+procurement, and regulatory sandboxes around societal challenges; (2) just transition mechanisms that re‐skill
+workforces and reinvest in fossil‐fuel‐dependent communities; and (3) digital‐environmental synergies that leverage
+data infrastructure for transparency, efficiency, and participatory governance. The study further proposes a dynamic
+framework—The Green Tech Growth Matrix—to help policymakers assess technological readiness, institutional capacity,
+and distributional impacts in designing context‐sensitive strategies. By moving beyond techno‐optimism to focus on
+governance, equity, and adaptive institutions, this research offers actionable insights for aligning the green tech
+revolution with the goals of inclusive and sustainable development in the 2030s and beyond.`,
+  startPage: 1485,
+  pagesCount: 7,
+},
+
+
+{
+  id: 273,
+  title: `GREEN TECHNOLOGICAL ADVANCES AS A BASIS FOR
+CLIMATE STRATEGIES IN INDUSTRIALIZED COUNTRIES`,
+  authors: ["Ivanova Natalia", "Goryacheva Varvara", "Asmyatullin Ravil"],
+  text: `Green technological advances are increasingly serving as the foundation for national climate strategies in
+industrialized countries, enabling ambitious emissions reductions while fostering economic growth, energy security,
+and industrial competitiveness. This study examines the role of key innovations—such as high‐efficiency renewable
+energy systems, green hydrogen, carbon capture and storage (CCS), smart grids, electrification of industry, and
+circular economy technologies—in shaping climate policies across leading economies, including the European Union,
+the United States, Japan, and South Korea. The analysis reveals that these technologies are no longer supplementary
+tools but central components of integrated decarbonization pathways, embedded in national energy strategies,
+regulatory frameworks, and investment plans. Empirical evidence shows that technological progress has significantly
+reduced costs and improved scalability, making green solutions economically viable at scale. For example, solar and
+wind power now offer the lowest levelized cost of electricity in most regions, while advances in battery storage and
+grid digitization support the integration of variable renewables into industrial energy systems. Industrial sectors
+such as steel, cement, and chemicals are piloting breakthrough technologies—including hydrogen‐based reduction
+and electrified kilns—to decarbonize hard‐to‐abate processes. Policy mechanisms such as carbon pricing, green public
+procurement, innovation funding, and regulatory mandates have accelerated the deployment of green technologies.
+In the EU, the Green Deal and Fit‐for‐55 package link technological deployment with binding emissions targets,
+while the U.S. Inflation Reduction Act allocates over $370 billion to incentivize domestic clean tech manufacturing
+and deployment. Despite progress, challenges remain, including supply chain vulnerabilities for critical minerals,
+workforce transitions, infrastructure gaps, and international coordination. However, the convergence of technological
+maturity, policy support, and private investment demonstrates that green innovation is not only compatible with
+industrial growth but essential to long‐term climate resilience. The findings underscore that sustained investment in
+research, development, and deployment of green technologies is the cornerstone of effective climate strategy in the
+industrialized world.`,
+  startPage: 1492,
+  pagesCount: 10,
+},
+
+
+{
+  id: 274,
+  title: `THE IMPACT OF SUSTAINABLE DEVELOPMENT ON THE
+TRANSFORMATION OF NATIONAL ECONOMIES IN THE
+CONTEXT OF GLOBALIZATION`,
+  authors: ["Mitrofanov Sergey", "Khashir Bella", "Zakharova Natalia"],
+  text: `The impact of sustainable development on the transformation of national economies in the context of globalization
+has become a key issue in modern economic discourse. As global interdependence deepens, countries face
+increasing pressure to balance economic growth with environmental protection and social inclusion. Sustainable
+development acts as a catalyst for structural changes in national economies, encouraging the transition from
+resource‐intensive models to green, innovative, and knowledge‐based systems. This transformation is driven by
+international agreements, such as the UN Sustainable Development Goals (SDGs), technological advancements,
+evolving consumer preferences, and growing regulatory frameworks. Globalization facilitates the transfer of clean
+technologies, promotes cross‐border investments in sustainable infrastructure, and enables the integration of
+environmental, social, and governance (ESG) criteria into economic decision‐making. At the same time, it exposes
+disparities between developed and developing nations in terms of capacity for green transition, access to finance,
+and technological readiness. This study examines how sustainable development principles are reshaping economic
+policies, industrial structures, and trade patterns across different countries. It highlights case studies of nations
+successfully integrating sustainability into their economic strategies, while also addressing challenges such as
+short‐term economic costs, political resistance, and unequal global responsibilities.`,
+  startPage: 1502,
+  pagesCount: 6,
+},
 
     // Добавляй новые статьи сюда просто копируя блок выше
 ];
