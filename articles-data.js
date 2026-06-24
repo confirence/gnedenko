@@ -1,5 +1,8 @@
 // articles-data.js - твоя "база данных" статей
 
+// Стартовая страница первой статьи журнала (startPage первой записи)
+const JOURNAL_BASE_PAGE = 1215;
+
 const articlesData = [
     {
         id: 159,
@@ -19,7 +22,6 @@ also to rare plants that grow through the nets and are damaged during waste coll
 of the study allowed us to assess the nature and extent of pollution on the northeast coast of Kildin
 Island. Kildin with marine debris, and also to identify the risks of damage to the integrity of the
 vegetation cover during the implementation of pollution elimination measures.`,
-        startPage: 1215,
         pagesCount: 13,
     },
     {
@@ -47,7 +49,6 @@ enhance both phytoremediation efficiency and plant viability in metalliferous su
 contributes to the design of scalable, low‐cost, ecologically sound systems for remediating metal‐
 contaminated effluents in mining‐affected regions.
 `,
-        startPage: 1228,
         pagesCount: 6,
     },
     {
@@ -72,7 +73,6 @@ has been shown that low sleep duration increases the severity of COVID‐19 infe
 smoking, hazardous working conditions, the use of immunotropic medications, or adherence to
 anti‐epidemic measures were found. The study results can be used to identify risk groups and
 develop measures to prevent the spread of coronavirus infection.`,
-        startPage: 1234,
         pagesCount: 8,
     },
     {
@@ -96,7 +96,6 @@ threat of mechanical damage to the plants. Given the increasing tourist flow and
 conservation measures due to the location of cenopopulations outside the boundaries of existing
 protected areas, it can be concluded that P. arctica in the area under consideration is at risk of
 population decline and extinction.`,
-        startPage: 1242,
         pagesCount: 8,
     },
     {
@@ -112,7 +111,6 @@ implementation. Particular attention is paid to the methodological aspects of pl
 the identification of climate risks. Based on a review and analysis of pilot regional adaptation plans,
 key trends, challenges, and development prospects for this area in Russia are identified. This work
 may be useful for specialists in climate policy, public administration, and sustainable development.`,
-        startPage: 1250,
         pagesCount: 8,
     },
     {
@@ -131,7 +129,6 @@ accumulation occurs at a low rate, due to the drastic suppression of plant life 
 metals and the inability to accumulate due to the cessation of division and growth. At lower
 concentrations, intense metal accumulation is observed, which is significantly enhanced by the
 simultaneous presence of both metals in the nutrient solution.`,
-        startPage: 1258,
         pagesCount: 5,
     },
     {
@@ -155,7 +152,6 @@ by proposing an integrated policy‐practice framework that combines targeted fi
 capacity‐building programs, streamlined certification schemes, and collaborative networks to
 strengthen the resilience and scalability of green SMEs. Ultimately, fostering green entrepreneurship
 is not only an economic imperative but a cornerstone of a just and transformative green economy.`,
-        startPage: 1263,
         pagesCount: 7,
     },
     {
@@ -178,7 +174,6 @@ sectoral data interoperability, and place‐based digital strategies—as well a
 such as the digital divide, data privacy concerns, and rebound effects. Ultimately, we argue that
 intelligent digitalization, when strategically aligned with sustainability goals, can catalyze a triple
 transition: toward low‐carbon, inclusive, and innovation‐led regional economies.`,
-        startPage: 1270,
         pagesCount: 6,
     },
     {
@@ -204,7 +199,6 @@ Arkhangelsk Region, the Komi Republic and the Chechen Republic are given. Recomm
 are proposed for state support, development of a scientific and technical base and training of
 qualified personnel for the sustainable development of crop production both in traditional northern
 regions and in the mountainous foothills of the North Caucasus.`,
-        startPage: 1276,
         pagesCount: 9,
     },
     {
@@ -232,7 +226,6 @@ Wellbeing‐Oriented Governance, and Climate‐Resilient Inclusive Growth—each
 design principles. The findings provide policymakers and development practitioners with an
 evidence‐based roadmap for designing context‐sensitive, scalable, and politically feasible pathways
 toward the 2030 Agenda.`,
-        startPage: 1285,
         pagesCount: 7,
     },
     {
@@ -260,7 +253,6 @@ upfront costs, digital literacy gaps, and fragmented policy support. The article
 “Digital‐Green Security Framework” to guide policymakers and agribusiness leaders in co‐
 designing inclusive, scalable, and context‐sensitive pathways toward sustainable economic security
 in the agrifood sector.`,
-        startPage: 1292,
         pagesCount: 6,
     },
     {
@@ -294,7 +286,6 @@ sustainable development, enabling citizen involvement in decision‐making regar
 budgetary expenditures, thereby improving transparency and resource efficiency. This
 approach addresses citizens’ most pressing concerns, improves quality of life, and
 cultivates a sense of ownership over local development.`,
-        startPage: 1298,
         pagesCount: 12,
     },
     {
@@ -327,7 +318,6 @@ emergence of new areas of training in journalism, and more broadly, media, in a
 multimedia environment, as discussed in this article. Thus, during the course of ongoing
 educational activities, a number of projects have been implemented, primarily aimed at
 popularizing the principles of sustainable development.`,
-        startPage: 1310,
         pagesCount: 7,
     },
     {
@@ -348,7 +338,6 @@ governance system creates risks of polarization and misinformation dissemination
 study reveals that traditional ESG metrics are inadequate for evaluating technological
 platforms, necessitating the development of new approaches to analyzing  ʺplatform
 governanceʺ as a key component of sustainable development.`,
-        startPage: 1326,
         pagesCount: 17,
     },
     {
@@ -378,7 +367,6 @@ intervention, digitalization may exacerbate inequality and environmental degrada
 alleviate them. The paper concludes with evidence‐based recommendations for policymakers to align
 digital strategies with sustainability imperatives, ensuring that technological advancement serves as a
 catalyst for resilient, equitable, and ecologically responsible development in the 21st century.`,
-        startPage: 1334,
         pagesCount: 9,
     },
     {
@@ -409,7 +397,6 @@ paper proposes a Human‐Centric Genomic Governance Framework (HCGG), integratin
 foresight, participatory oversight, algorithmic accountability, and cross‐sectoral alignment with the
 UN Sustainable Development Goals (SDGs), particularly SDG 3 (Good Health and Well‐Being)
 and SDG 16 (Peace, Justice, and Strong Institutions).`,
-        startPage: 1354,
         pagesCount: 18,
     },
     {
@@ -443,7 +430,6 @@ of intellectual capital, expressed in the increase in the number of patents and 
 competitiveness of the region through the development of local brands and attracting investors; as well as
 optimization of state participation in the development of the creative economy by improving the mechanisms of
 financial and educational support.`,
-      startPage: 1361,
       pagesCount: 19,
   },
   {
@@ -472,7 +458,6 @@ The article proposes a Creative‐Resilient Regional Development Framework to gu
 cultural assets, ecological limits, and entrepreneurial energy toward long‐term sustainability. By centering
 human creativity as both an economic and ecological resource, regions can move beyond extractive models
 toward regenerative prosperity.`,
-    startPage: 1380,
     pagesCount: 7,
 },
 {
@@ -506,7 +491,6 @@ It proposes an analytical framework linking institutional thickness, policy inte
 alignment as prerequisitesforlong‐term resilience. Theresults offer actionableinsightsfor policymakersseeking
 to strengthen regional capacities, improve intergovernmental coordination, and ensure that sustainability
 transitions are both inclusive and scalable`,
-  startPage: 1387,
   pagesCount: 9,
 },
 {
@@ -537,38 +521,7 @@ regulatory coherence, feedback loops between local innovation and national polic
 to avoid exclusionary outcomes. By bridging the gap between macro‐level digital strategies and micro‐level
 sustainability challenges, this research offers actionable insights for policymakers, urban planners, and
 international organizations seeking to harness d`,
-  startPage: 1396,
   pagesCount: 15,
-},
-{
-  id: 259,
-  title: `DIGITAL TECHNOLOGIES AS CATALYSTS FOR
-SUSTAINABLE SERVICE INNOVATION: ALIGNING
-BUSINESS MODEL TRANSFORMATION WITH NATIONAL
-AND URBAN SUSTAINABILITY STRATEGIES`,
-  authors: ["Tatuev Arsen", "Gorbunov Alexander", "Taran Oleg"],
-  text: `Therapid advancement of digital technologies — including artificial intelligence, theInternet of Things(IoT),
-big data analytics, and platform ecosystems — is fundamentally reshaping business models across the service
-sector. While much attention has focused on efficiency, scalability, and customer personalization, this paper
-argues that digital transformation holds transformative potential for sustainable development when
-strategically aligned with national and urban sustainability agendas. Drawing on a mixed‐methods approach
-combining policy analysis, cross‐sector case studies, and systems thinking, the study explores how digital
-serviceinnovation can act as a catalyst for achieving environmental,social, and economic sustainability goals.
-However, the study also reveals a critical misalignment: while firms innovate digitally, their business models
-often operate in silos, disconnected from broader public sustainability strategies such as carbon neutrality
-targets, circular economy roadmaps, or SDG‐localization efforts. This gap limits systemic impact and risks
-ʺdigital greenwashingʺ  — where technological progress masks persistent environmental footprints. The
-findings highlight the importance of public‐private co‐governance, policy incentives, and interoperable data
-infrastructures in aligning corporate innovation with societal goals. Successful cases demonstrate that when
-digital service transformation isembedded within national and urban sustainability frameworks — supported
-by regulatory foresight, shared KPIs, and multi‐stakeholder collaboration — it drives co‐benefits across
-economic competitiveness, citizen well‐being, and planetary boundaries. The paper concludes with a proposed
-Digital‐Sustainability Alignment Framework (DSAF), offering policymakers and business leaders a strategic
-roadmap to harness digital technologies not merely as tools of disruption, but as intentional levers for
-sustainableserviceinnovation. It callsfor a paradigm shift: from isolated digitalization to integrated, purpose‐
-driven transformation that positions sustainability at the core of the digital service economy.`,
-  startPage: 1411,
-  pagesCount: 12,
 },
 {
   id: 262,
@@ -591,7 +544,6 @@ overconsumption. In contrast, ethically grounded models of CX prioritize empathy
 value, aligning customer journeys with the principles of the UN Sustainable Development Goals (SDGs),
 particularly SDG 12 (Responsible Consumption and Production) and SDG 8 (Decent Work and Economic
 Growth).`,
-  startPage: 1423,
   pagesCount: 10,
 },
 {
@@ -614,7 +566,6 @@ storage (CCS), reforestation, and the transition to renewable energy sources. Th
 scientific mechanisms linking carbon to the greenhouse effect, analyzes current trends in carbon emissions,
 and discusses the urgent need for global action to achieve carbon neutrality and limit the impacts of climate
 change.`,
-  startPage: 1433,
   pagesCount: 7,
 },
 {
@@ -639,7 +590,6 @@ initiatives, and targeted support mechanisms are identified as key enablers for 
 engagement in sustainable economic practice. This article provides insights for policymakers,
 entrepreneurs, and development practitioners on how to strengthen the integration of small enterprises into
 the green economy, promoting both environmental sustainability and economic resilience`,
-  startPage: 1447,
   pagesCount: 13,
 },
 {
@@ -666,7 +616,6 @@ The findings underscore the importance of collaboration among stakeholders, incl
 and communities, to create an enabling environment for sustainable practices. Ultimately, this research contributes
 to the understanding of how a green economy can serve as a new paradigm for traditional business models, fostering
 a harmonious relationship between economic development and environmental stewardship.`,
-  startPage: 1458,
   pagesCount: 6,
 },
 {
@@ -691,7 +640,6 @@ identifies persistent challenges, including tokenistic consultation, power imbal
 The article proposes a Community‐Integrated Green City Framework that outlines principles for embedding
 participatory governance into urban planning, finance, and monitoring systems. By centering community agency, cities
 can move beyond green gentrification and technocratic fixes toward a just, resilient, and truly sustainable urban future.`,
-  startPage: 1458,
   pagesCount: 6,
 },
 
@@ -722,7 +670,6 @@ confidence. The paper concludes that a secure green digital transition requires 
 cybersecurity by design and by default into urban and regional strategies. By protecting intellectual capital and
 ensuring the responsible stewardship of personal data, cybersecurity becomes a cornerstone of trustworthy, equitable,
 and resilient sustainable development in the digital age.`,
-  startPage: 1464,
   pagesCount: 8,
 },
 
@@ -748,7 +695,6 @@ frameworks, skills retraining systems, and international cooperation mechanisms.
 integrated Sustainable Industrial Transformation Framework that balances decarbonization, economic
 resilience, and social inclusion. It concludes that without proactive, coordinated, and equitable governance,
 industrial transformation may deepen economic divides rather than advance shared prosperity.`,
-  startPage: 1472,
   pagesCount: 5,
 },
 
@@ -770,7 +716,6 @@ digital solutions can significantly strengthen environmental education within pe
 both teacher competence and student engagement. The paper concludes with recommendations for policy makers
 and teacher education institutions to leverage digital innovation for building a more sustainable and
 environmentally responsible education system.`,
-  startPage: 1477,
   pagesCount: 8,
 },
 
@@ -797,7 +742,6 @@ framework—The Green Tech Growth Matrix—to help policymakers assess technolog
 and distributional impacts in designing context‐sensitive strategies. By moving beyond techno‐optimism to focus on
 governance, equity, and adaptive institutions, this research offers actionable insights for aligning the green tech
 revolution with the goals of inclusive and sustainable development in the 2030s and beyond.`,
-  startPage: 1485,
   pagesCount: 7,
 },
 
@@ -829,7 +773,6 @@ maturity, policy support, and private investment demonstrates that green innovat
 industrial growth but essential to long‐term climate resilience. The findings underscore that sustained investment in
 research, development, and deployment of green technologies is the cornerstone of effective climate strategy in the
 industrialized world.`,
-  startPage: 1492,
   pagesCount: 10,
 },
 
@@ -854,7 +797,6 @@ and technological readiness. This study examines how sustainable development pri
 policies, industrial structures, and trade patterns across different countries. It highlights case studies of nations
 successfully integrating sustainability into their economic strategies, while also addressing challenges such as
 short‐term economic costs, political resistance, and unequal global responsibilities.`,
-  startPage: 1502,
   pagesCount: 6,
 },
 
@@ -877,7 +819,6 @@ and the strategy for achieved growth are discussed in the context of their pract
 of tools such as flexible pricing, marketing campaigns, and the introduction of innovations. The implementation of
 these strategies is expected to lead to long‐term sustainability, revenue growth and enhanced competitiveness of the
 industry.`,
-  startPage: 1508,
   pagesCount: 9,
 },
 
@@ -902,7 +843,6 @@ is not merely a reputational tool but a strategic imperative for building a resi
 sound economy. When effectively implemented and transparently monitored, CSR can serve as a catalyst for
 aligning corporate success with sustainable development goals, contributing to long‐term economic stability and
 societal well‐being.`,
-  startPage: 1517,
   pagesCount: 10,
 },
 
@@ -927,7 +867,6 @@ partnerships, capacity‐building initiatives, and targeted support mechanisms a
 expanding small business engagement in sustainable economic practice. This article provides insights for
 policymakers, entrepreneurs, and development practitioners on how to strengthen the integration of small
 enterprises into the green economy, promoting both environmental sustainability and economic resilience.`,
-  startPage: 1527,
   pagesCount: 7,
 },
 
@@ -948,7 +887,6 @@ technological sovereignty, environmental sustainability, and long‐term economi
 the necessity of coordinated policies involving governments, educational institutions, and the private sector to build a
 skilled, adaptable, and environmentally conscious workforce. The article concludes with policy recommendations aimed
 at strengthening national and global capacity to meet the demands of the green technological revolution.`,
-  startPage: 1534,
   pagesCount: 12,
 },
 

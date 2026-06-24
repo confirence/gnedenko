@@ -1,5 +1,16 @@
 // articles-generator.js - генератор HTML для статей
 
+// Считает startPage для каждой статьи по порядку массива (не по id).
+// Первая статья берёт JOURNAL_BASE_PAGE из articles-data.js,
+// каждая следующая = предыдущий startPage + предыдущий pagesCount.
+function computeStartPages() {
+    let page = JOURNAL_BASE_PAGE;
+    articlesData.forEach((article) => {
+        article.startPage = page;
+        page += article.pagesCount;
+    });
+}
+
 /**
  * Генерирует диапазон страниц
  */
@@ -114,6 +125,8 @@ function renderAllArticles() {
         console.error("Контейнер #continieThisShPl не найден!");
         return;
     }
+
+    computeStartPages();
 
     let allHTML = "";
 
