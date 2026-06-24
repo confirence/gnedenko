@@ -643,28 +643,6 @@ the green economy, promoting both environmental sustainability and economic resi
   pagesCount: 13,
 },
 {
-  id: 266,
-  title: `DIGITALIZATION AND INTELLIGENT
-TECHNOLOGIES AS DRIVERS OF SUSTAINABLE
-DEVELOPMENT OF THE REGIONAL ECONOMY`,
-  authors: ["Ilyasov Ruslan", "Kozyubro Tatyana", "Natkho Susanna3"],
-  text: `Digitalization and intelligent technologies—encompassing artificial intelligence, big data analytics, the
-Internet of Things (IoT), blockchain, and smart infrastructure—are increasingly recognized as pivotal
-enablers of sustainable regional development. This article explores the mechanisms through which digital
-transformation fosters economic resilience, environmental stewardship, and social inclusivity at the
-subnational level. Drawing on empirical case studies and theoretical frameworks, we analyze how smart
-governance, data‐driven resource management, and digital platforms for SMEs enhance productivity while
-reducing ecological footprints and spatial inequalities. Special attention is given to the role of regional
-innovation ecosystems, digital skills development, and public–private partnerships in ensuring equitable
-technology diffusion. The study identifies critical success factors—including adaptive regulatory
-environments, cross‐sectoral data interoperability, and place‐based digital strategies—as well as persistent
-challenges such as the digital divide, data privacy concerns, and rebound effects. Ultimately, we argue that
-intelligent digitalization, when strategically aligned with sustainability goals, can catalyze a triple
-transition: toward low‐carbon, inclusive, and innovation‐led regional economies.`,
-  startPage: 1453,
-  pagesCount: 5,
-},
-{
   id: 267,
   title: `GREEN TRANSFORMATION: INTEGRATING
 SUSTAINABILITY PRINCIPLES INTO CLASSIC BUSINESS
@@ -878,6 +856,54 @@ successfully integrating sustainability into their economic strategies, while al
 short‐term economic costs, political resistance, and unequal global responsibilities.`,
   startPage: 1502,
   pagesCount: 6,
+},
+
+{
+  id: 275,
+  title: `THE ROLE OF TOURISM IN THE GLOBAL ECONOMY: A
+COMPETITIVENESS ANALYSIS`,
+  authors: ["Gorbunov Alexander", "Tatuev Arsen", "Taran Oleg"],
+  text: `Abstract: In recent decades, tourism has become a key driver of economic growth and global competitiveness. This
+article examines the contribution of tourism to the global economy, analyzes its impact on employment and
+international trade, and considers regional differences in the competitiveness of tourist destinations. Particular
+attention is paid to the European Union countries, which occupy leading positions in the Tourism Competitiveness
+Index (TTCI) developed by the World Economic Forum. Factors contributing to the EUʹ
+s success in this area are
+considered, including the business climate, infrastructure, education, and information technology. The impact of
+tourism on the economic development of Russia, as well as the EU countries, is analyzed. Particular attention is paid
+to the need to improve public policy in the field of tourism and to strengthening the role of public organizations in
+coordinating actions between various industry participants. Strategies such as growth maintenance, radical changes,
+and the strategy for achieved growth are discussed in the context of their practical implementation, as well as the use
+of tools such as flexible pricing, marketing campaigns, and the introduction of innovations. The implementation of
+these strategies is expected to lead to long‐term sustainability, revenue growth and enhanced competitiveness of the
+industry.`,
+  startPage: 1508,
+  pagesCount: 9,
+},
+
+{
+  id: 276,
+  title: `THE ROLE OF CORPORATE SOCIAL RESPONSIBILITY IN
+BUILDING A SUSTAINABLE ECONOMY`,
+  authors: ["Krotova Marina", "Mukharyanova Oksana", "Shmygaleva Polina"],
+  text: `Corporate Social Responsibility (CSR) has emerged as a pivotal driver in the transition toward a sustainable
+economy. As global challenges such as climate change, social inequality, and resource depletion intensify, businesses
+are increasingly expected to go beyond profit generation and contribute positively to society and the environment.
+This paper examines the role of CSR in fostering sustainable economic development by integrating environmental
+stewardship, ethical governance, and social inclusion into core business strategies. Through a review of empirical
+studies and corporate practices, the study highlights how CSR initiatives—ranging from carbon footprint reduction
+and sustainable supply chain management to community engagement and fair labor practices—can enhance long‐
+term competitiveness, strengthen stakeholder trust, and drive innovation. Furthermore, it explores the impact of
+CSR on key economic indicators, including employment quality, resource efficiency, and resilience to systemic
+risks. The analysis also addresses challenges such as greenwashing, inconsistent reporting standards, and the need
+for regulatory incentives to ensure genuine commitment. It emphasizes the importance of collaboration between
+businesses, governments, and civil society to scale impactful CSR practices. Ultimately, this paper argues that CSR
+is not merely a reputational tool but a strategic imperative for building a resilient, inclusive, and environmentally
+sound economy. When effectively implemented and transparently monitored, CSR can serve as a catalyst for
+aligning corporate success with sustainable development goals, contributing to long‐term economic stability and
+societal well‐being.`,
+  startPage: 1517,
+  pagesCount: 10,
 },
 
     // Добавляй новые статьи сюда просто копируя блок выше
