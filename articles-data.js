@@ -906,5 +906,51 @@ societal well‐being.`,
   pagesCount: 10,
 },
 
+{
+  id: 277,
+  title: `SMALL ENTERPRISE PARTICIPATION IN THE GREEN
+ECONOMY: PATHWAYS TO SUSTAINABLE DEVELOPMENT
+AND ECONOMIC GROWTH`,
+  authors: ["Taranova Irina", "Ludmila Goloshchapova", "Daria Golyzhnikova"],
+  text: `The transition to a green economy presents both challenges and opportunities for small enterprises, which play a
+vital role in local economic development and innovation. This article explores the intersection between small
+businesses and the green economy, identifying key points of connection where small enterprises can contribute to
+and benefit from sustainable development. The study analyses how small businesses engage in green sectors such
+as renewable energy, eco‐tourism, sustainable agriculture, and resource‐efficient manufacturing. Based on a
+qualitative analysis of case studies and policy frameworks, the article highlights the drivers and barriers influencing
+small enterprise participation in the green economy. These include access to green financing, availability of
+sustainable technologies, regulatory support, and market demand for eco‐friendly products and services. The
+research also emphasizes the role of local and national policies in fostering an enabling environment for green
+entrepreneurship. The findings suggest that small enterprises are not only capable of adapting to sustainability
+trends but can also act as catalysts for innovation and inclusive growth within the green economy. Strategic
+partnerships, capacity‐building initiatives, and targeted support mechanisms are identified as key enablers for
+expanding small business engagement in sustainable economic practice. This article provides insights for
+policymakers, entrepreneurs, and development practitioners on how to strengthen the integration of small
+enterprises into the green economy, promoting both environmental sustainability and economic resilience.`,
+  startPage: 1527,
+  pagesCount: 7,
+},
+
+{
+  id: 278,
+  title: `HUMAN CAPITAL DEVELOPMENT IN ADDRESSING
+GLOBAL GREEN TECHNOLOGY CHALLENGES`,
+  authors: ["Aissara Serikkyzy", "Saule Serikkyzy Baktymbet", "Taranova Irina"],
+  text: `The transition to a green economy driven by advances in green technologies presents both transformative opportunities
+and complex challenges for nations worldwide. Central to the successful adoption and innovation of these technologies
+is the development of high‐quality human capital. This article examines the critical role of human capital in overcoming
+global challenges associated with green technology implementation, including technological adaptation, workforce
+transformation, and sustainable innovation. Through a systematic analysis of international practices and empirical
+case studies, the study identifies key components of effective human capital development: interdisciplinary education,
+continuous professional training, digital and ecological literacy, and the fostering of green competencies. The research
+highlights that investment in human capital is not merely a supportive factor, but a strategic prerequisite for achieving
+technological sovereignty, environmental sustainability, and long‐term economic resilience. The findings underscore
+the necessity of coordinated policies involving governments, educational institutions, and the private sector to build a
+skilled, adaptable, and environmentally conscious workforce. The article concludes with policy recommendations aimed
+at strengthening national and global capacity to meet the demands of the green technological revolution.`,
+  startPage: 1534,
+  pagesCount: 12,
+},
+
     // Добавляй новые статьи сюда просто копируя блок выше
 ];
